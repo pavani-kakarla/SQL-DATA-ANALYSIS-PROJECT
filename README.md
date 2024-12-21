@@ -28,6 +28,19 @@ Determine the top 3 most ordered pizza types based on revenue for each pizza cat
 ## Project Doucment
 * <a href="https://github.com/pavani-kakarla/SQL-DATA-ANALYSIS-PROJECT/blob/main/Pizza.pdf">Document</a>
 
+## Project Insights
+* The Most costliest pizza is "The Greek Pizza".
+* Average number of pizzas ordered per day is "138".
+* Top 3 most ordered pizzas are :
+      1. The Thai Chicken Pizza
+      2. The Barbecue Chicken Pizza
+      3. The California Chicken Pizza
+* The pizza category which is "classic" contributed more revenue compared to other category.
+
+
+
+
+
 
 
 
